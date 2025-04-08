@@ -21,7 +21,7 @@ section {
     border: 4px solid #8a5d5d;
 }
 
-h1, h2, h3 {
+h2, h3 {
     color: #920000;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -94,4 +94,10 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+h1{
+    color: #f2dfdf;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
