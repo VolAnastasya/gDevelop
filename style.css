@@ -22,7 +22,7 @@ section {
 }
 
 h1, h2, h3 {
-    color: #c4b7b7;
+    color: #920000;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -49,7 +49,7 @@ form {
 
 label {
     margin-bottom: 5px;
-    color: #c4b7b7;
+    color: #920000;
 }
 
 input, textarea {
@@ -74,7 +74,7 @@ button {
 }
 
 button:hover {
-    background-color: #c4b7b7;
+    background-color: #920000;
     transform: scale(1.05);
 }
 
@@ -88,7 +88,7 @@ footer {
 }
 
 a {
-    color: #ccabab;
+    color: #920000;
     text-decoration: none;
 }
 
