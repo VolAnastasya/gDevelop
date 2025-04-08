@@ -3,12 +3,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #ccabab;
-    background-color: #780000;
+    color: #780000;
+    background-color: #ccabab;
 }
 
 header {
-    background-color: #f2dfdf;
+    background-color: #780000;
     padding: 20px;
     text-align: center;
     border-bottom: 4px solid #cf7474;
@@ -22,7 +22,7 @@ section {
 }
 
 h1, h2, h3 {
-    color: #4682B4;
+    color: #c4b7b7;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -49,7 +49,7 @@ form {
 
 label {
     margin-bottom: 5px;
-    color: #4682B4;
+    color: #c4b7b7;
 }
 
 input, textarea {
@@ -58,7 +58,7 @@ input, textarea {
     border: 2px solid #cf7474;
     border-radius: 0;
     background-color: #780000;
-    color: #4682B4;
+    color: #c4b7b7;
     font-family: 'Courier New', monospace;
 }
 
@@ -74,7 +74,7 @@ button {
 }
 
 button:hover {
-    background-color: #4682B4;
+    background-color: #c4b7b7;
     transform: scale(1.05);
 }
 
